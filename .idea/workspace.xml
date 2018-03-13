@@ -15,26 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_testing_summary.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/subs/test_testing_summary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_inspection_quantity_year.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/subs/test_inspection_quantity_year.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="test_bus_unbalanced_month.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testcase/subs/test_bus_unbalanced_month.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -48,8 +28,8 @@
       <file leaf-file-name="public.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="441">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="e#21#32#0" expanded="true" />
               </folding>
@@ -57,11 +37,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_chk_count.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="get_oracle.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/get_oracle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding>
+                <element signature="e#22#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_chk_count.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testcase/subs/test_chk_count.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="133">
+              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
                 <element signature="e#22#37#0" expanded="true" />
               </folding>
@@ -69,32 +61,36 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="runtest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runtest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+              <folding>
+                <element signature="e#15#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/__init__.py">
+        <entry file="file://$PROJECT_DIR$/testcase/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_bus_unbalanced_year.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/subs/test_bus_unbalanced_year.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_exchange_electric.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/subs/test_exchange_electric.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="76">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding>
+                <element signature="e#14#29#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,7 +117,6 @@
         <option value="$PROJECT_DIR$/run.py" />
         <option value="$PROJECT_DIR$/email.py" />
         <option value="$PROJECT_DIR$/sql_jisuan.py" />
-        <option value="$PROJECT_DIR$/config" />
         <option value="$PROJECT_DIR$/testcase/test_chk_count.py" />
         <option value="$PROJECT_DIR$/testcase/test_chking.py" />
         <option value="$PROJECT_DIR$/testcase/test_chk_info.py" />
@@ -139,9 +134,13 @@
         <option value="$PROJECT_DIR$/testcase/subs/test_bus_unbalanced_year.py" />
         <option value="$PROJECT_DIR$/testcase/subs/test_exchange_electric.py" />
         <option value="$PROJECT_DIR$/testcase/subs/test_bus_unbalanced_month.py" />
-        <option value="$PROJECT_DIR$/public.py" />
         <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/config" />
+        <option value="$PROJECT_DIR$/public.py" />
+        <option value="$PROJECT_DIR$/get_oracle.py" />
         <option value="$PROJECT_DIR$/testcase/subs/test_chk_count.py" />
+        <option value="$PROJECT_DIR$/testcase/__init__.py" />
+        <option value="$PROJECT_DIR$/runtest.py" />
       </list>
     </option>
   </component>
@@ -169,6 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -195,10 +195,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mmop_interface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mmop_interface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testcase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,25 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_chk_count">
-    <configuration default="false" name="public" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mmop_scream" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/public.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.runtest">
     <configuration default="false" name="test_bus_unbalanced_month" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,13 +271,67 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\Python27\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/subs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mmop_interface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/subs/test_chk_count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="public" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mmop_interface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/public.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="get_oracle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mmop_scream" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/subs/test_chk_count.py" />
+      <module name="mmop_interface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_oracle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="runtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mmop_interface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runtest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,16 +417,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python.public" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test_bus_unbalanced_month" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test_chk_count" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.test_bus_unbalanced_month" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test_chk_count" />
+      <item index="2" class="java.lang.String" itemvalue="Python.public" />
+      <item index="3" class="java.lang.String" itemvalue="Python.get_oracle" />
+      <item index="4" class="java.lang.String" itemvalue="Python.runtest" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.test_chk_count" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_bus_unbalanced_month" />
-        <item index="2" class="java.lang.String" itemvalue="Python.public" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.runtest" />
+        <item index="1" class="java.lang.String" itemvalue="Python.get_oracle" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_chk_count" />
+        <item index="3" class="java.lang.String" itemvalue="Python.public" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test_bus_unbalanced_month" />
       </list>
     </recent_temporary>
   </component>
@@ -401,18 +458,18 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.4911111" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2473525" sideWeight="0.4911111" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2647059" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3480392" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47058824" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.51797384" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39869282" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5088889" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.100605145" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.100605145" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -439,30 +496,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testcase/subs/test_testing_summary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/subs/test_inspection_quantity_year.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/subs/test_bus_unbalanced_month.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -581,13 +614,6 @@
     <entry file="file://$PROJECT_DIR$/email.py" />
     <entry file="file://$PROJECT_DIR$/sql_jisuan.py" />
     <entry file="file://$PROJECT_DIR$/run.py" />
-    <entry file="file://$PROJECT_DIR$/config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testcase/subs/test_chking.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -651,20 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/subs/test_type_count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/subs/test_years_count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testcase/subs/test_testing_summary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -674,6 +686,47 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testcase/subs/test_inspection_quantity_year.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/subs/test_bus_unbalanced_month.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/simplejson/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="275" column="6" lean-forward="false" selection-start-line="275" selection-start-column="6" selection-end-line="275" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mmop_interface_test/.idea/misc.xml" />
+    <entry file="file://$PROJECT_DIR$/mmop_interface_test/.idea/mmop_interface_test.iml" />
+    <entry file="file://$PROJECT_DIR$/testcase/subs/test_type_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/subs/test_years_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -697,33 +750,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/subs/test_bus_unbalanced_month.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="e#21#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python27/Lib/site-packages/simplejson/decoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="275" column="6" lean-forward="false" selection-start-line="275" selection-start-column="6" selection-end-line="275" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__init__.py">
+    <entry file="file://$PROJECT_DIR$/report/2018-03-04-12_04_09result.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -731,14 +758,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mmop_interface_test/.idea/misc.xml" />
-    <entry file="file://$PROJECT_DIR$/mmop_interface_test/.idea/mmop_interface_test.iml" />
+    <entry file="file://$PROJECT_DIR$/public.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2018-03-42-14-42-44_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testcase/subs/test_chk_count.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="133">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
             <element signature="e#22#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2018-03-42-14-42-00_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2018-03-49-14-49-39_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2018-03-56-14_56_07result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="e#15#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_oracle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="e#22#38#0" expanded="true" />
           </folding>
         </state>
       </provider>

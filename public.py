@@ -1,10 +1,7 @@
 #-*- coding:utf8 -*-
 import json
 import requests
-
-#-*- coding:utf8 -*-
-
-import requests
+import get_oracle
 
 class Sessionget:
     headers = {
@@ -23,5 +20,13 @@ class Sessionget:
         cls.session.post(cls.url, headers=cls.headers, data=cls.data)
         return cls.session
 
+    def get_api(self):
+        self.response = requests.get('http://192.168.0.150:9522/api/subs/chk_count')
+        self.json = self.response.json()
+        return self.json
+
+
 if __name__ =='__main__':
-    print Sessionget.get_web()
+    a = Sessionget()
+    print a.get_api()
+    print Sessionget.get_web().post("http://192.168.0.150:9522/mmop-web/main/selectCheckSubsByArea").json()
