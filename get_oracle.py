@@ -20,5 +20,19 @@ def db_chk_count():
     rs = cr.fetchall()
     db.close()
     return rs
-if __name__ =='__main__':
-    print db_chk_count()
+
+def db_chking():
+    sql = '''
+               SELECT DISTINCT T.SUBS_NO AS SUBS
+      FROM T_TEST_PLAN P, T_TEST_PLAN_DET T, T_SITECHK_ORDER U
+     WHERE P.PLAN_NO = T.PLAN_NO
+       AND U.PLAN_NO = P.PLAN_NO
+       AND P.CYCLE_CODE <> '01'
+       AND TO_CHAR(P.WORK_S_DATE, 'yyyymm') = TO_CHAR(SYSDATE, 'yyyymm')
+              '''
+    db = query()
+    cr = db.cursor()
+    cr.execute(sql)
+    rs = cr.fetchall()
+    db.close()
+    return rs

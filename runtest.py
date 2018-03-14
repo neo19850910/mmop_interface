@@ -1,7 +1,7 @@
 #coding=utf-8
 
 import HTMLTestRunner
-import unittest
+from sendmai import *
 import os,time
 from testcase.subs.test_chk_count import *
 import sys
@@ -18,10 +18,9 @@ def creatsuitel():
     for test_suite in discover:
         for test_case in test_suite:
             testunit.addTests(test_case)
-            print testunit
     return testunit
 alltestnames = creatsuitel()
-now = time.strftime('%Y-%m-%M-%H_%M_%S',time.localtime(time.time()))
+now = time.strftime('%Y-%m-%d-%H_%M_%S',time.localtime(time.time()))
 filename = 'F:\\mmop_interface\\report\\'+now+'result.html'
 fp = file(filename, 'wb')
 runner =HTMLTestRunner.HTMLTestRunner(
@@ -30,3 +29,4 @@ runner =HTMLTestRunner.HTMLTestRunner(
         description=u'用例执行情况：')
 #执行测试用例
 runner.run(alltestnames)
+sentmail(reportsort())

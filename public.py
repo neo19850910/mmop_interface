@@ -25,8 +25,12 @@ class Sessionget:
         self.json = self.response.json()
         return self.json
 
+    def get_chking(self):
+        self.response = requests.get('http://192.168.0.150:9522/api/subs/chking')
+        self.json = self.response.json()
+        return self.json
 
 if __name__ =='__main__':
     a = Sessionget()
-    print a.get_api()
+    print a.get_chking()
     print Sessionget.get_web().post("http://192.168.0.150:9522/mmop-web/main/selectCheckSubsByArea").json()

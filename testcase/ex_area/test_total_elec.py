@@ -4,13 +4,13 @@ import unittest
 import requests
 from public import *
 
-class BusUnbalancedMonth(unittest.TestCase):
-    '''获取某个厂站近六个月的母线不平衡率'''
+class TotalElec(unittest.TestCase):
+    '''获取近5-10年跨区电网的总体交易电量'''
     def setUp(self):
         self.r = Sessionget.get_web().post("http://192.168.0.150:9522/mmop-web/main/selectCheckSubsByArea").json()
         self.verificationErrors = []
-    def test_bus_unbalanced_month(self):
-        """获取某个厂站近六个月的母线不平衡率"""
+    def test_total_elec(self):
+        """获取近5-10年跨区电网的总体交易电量"""
         for i in self.r['msg']:
             for m in get_oracle.db_chk_count():
                 for n in Sessionget().get_api()['items']:
