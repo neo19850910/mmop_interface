@@ -13,7 +13,7 @@ def reportsort():
 
 def sentmail(file_new):
     mail_from=getConfig("EMAIL","sender")
-    mail_to = getConfig("EMAIL","receiver")
+    mail_to = (getConfig("EMAIL","receiver")).split(',')
     f = open(file_new, 'rb')
     mail_body = f.read()
     f.close()

@@ -10,11 +10,9 @@ sys.setdefaultencoding('utf8')
 listaa='F:\\mmop_interface\\testcase'
 def creatsuitel():
     testunit=unittest.TestSuite()
-    # discover 方法定义
     discover = unittest.defaultTestLoader.discover(listaa,
                                                    pattern='test_*.py',
                                                    top_level_dir=None)
-    # discover 方法筛选出来的用例，循环添加到测试套件中
     for test_suite in discover:
         for test_case in test_suite:
             testunit.addTests(test_case)
